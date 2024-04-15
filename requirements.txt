@@ -1,0 +1,7 @@
+os
+beautifulsoup4==4.12.2
+Requests==2.31.0
+shutil
+urljoin
+csv
+
